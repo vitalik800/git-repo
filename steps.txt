@@ -1,2 +1,7 @@
 print("step1");
 print("step2");
+if (x < 9) {
+System.out.println("Hello");
+}else{
+System.out.println("Exiting");
+}
